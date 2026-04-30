@@ -1,0 +1,2 @@
+# Smart-Gas-Leak-Detection-and-Safety-Monitoring-System-Using-Arduino
+This project is gas detection and monitoring system that measures gas levels and temperature to classify the environment into save, warning, and danger states, It uses a gas and temperature sensors, LCD display, LEDs, and a buzzer for alerts. The system is programmed in C/C++ using Arduino IDE, with monitoring in loop and setup.
